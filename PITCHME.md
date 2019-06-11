@@ -29,9 +29,9 @@ what a shit.
 Yes please come on and fuck you
 
 @ol
-- New `delegate` operation on RDD[@color[gray](AWSTask)]
-- This operation executes AWS Lambda functions
-- And generates RDD[@color[gray](AWSResult)]
+- purlum[@color[gray](burlum)]
+- trim brim
+- gram[@color[gray](scam)]
 @olend
 
 ---
