@@ -2,9 +2,9 @@
 
 @title[Introduction]
 ### Baa-BUM!
-~Qui-qui
+~Qui-qui~
 
-@color[gray](An Apache Spark Package)
+@color[magenta](An Apache Spark Package)
 
 ---
 
